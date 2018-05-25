@@ -1,0 +1,1 @@
+Some notebooks were written to use only the CPU and require small changes to run on the GPU. See [CUDA semantics for PyTorch](http://pytorch.org/docs/master/notes/cuda.html) for more information.
